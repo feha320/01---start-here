@@ -1,0 +1,53 @@
+/* fonts */
+/* 
+    font-family: 'Cinzel', serif;
+    font-family: 'PT Serif', serif;
+
+    **********  12 MIN  ************
+
+*/
+
+body {
+  margin: 0;
+  font-size: 1.125rem;
+  line-height: 1.6;
+  font-family: 'PT Serif', serif;
+  font-weight: 400;
+  color: black;
+}
+
+header {
+  text-align: center;
+  margin: 6rem auto;
+  max-width: 70rem;
+  padding: 0 2rem;
+}
+
+h1 {
+  font-size: 6rem;
+  line-height: 0.9;
+  margin: 0;
+  font-family: 'Cinzel', serif;
+  font-weight: 900;
+}
+
+.subtitle {
+  font-size: 2.25rem;
+  line-height: 1.2;
+  color: #7D7D7D;
+  padding: 0 150px;
+}
+
+.container {
+  width: 90%;
+  max-width: 39rem;
+  margin: 0 auto;
+}
+
+.lead {
+  font-size: 1.3125rem;
+}
+
+a {
+  color: #CA5E10;
+}
